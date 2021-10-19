@@ -1,0 +1,17 @@
+.test__row {
+    display: flex;
+    max-width: 432px;
+    justify-content: space-between  ;
+}
+
+.line-v {
+    display: block;
+    width: 2px;
+    height: 300px;
+    background: gray;
+
+}
+
+.test__box {
+    display: flex;
+}

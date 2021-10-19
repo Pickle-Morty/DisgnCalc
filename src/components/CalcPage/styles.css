@@ -1,0 +1,16 @@
+.calc__page>.col {
+    width: 320px;
+    
+}
+
+.calc__item {
+    display: block;
+}
+
+.calc__img {
+    max-height: 400px;
+}
+
+.calc__result>.row {
+    justify-content: center  ;
+}

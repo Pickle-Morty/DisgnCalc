@@ -1,0 +1,7 @@
+.label {
+    color: rgba(0, 80, 178, 1);
+    margin-bottom: 8px;
+    display: block;
+    font-weight: bold;
+    outline: none;
+}

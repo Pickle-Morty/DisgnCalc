@@ -1,0 +1,24 @@
+.button {
+    
+}
+
+.button__confirm {
+    background: rgba(0, 80, 178, 1);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 33px;
+    border: none;
+
+}
+
+.button__submit  {
+    background: rgba(0, 80, 178, 1);
+    color: white;
+    padding: 9px 27px;
+    border-radius: 10px;
+    border: none;
+}
+
+.button__confirm:active {
+    transform: scale(.98);
+}

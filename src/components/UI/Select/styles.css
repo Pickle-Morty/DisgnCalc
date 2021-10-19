@@ -1,0 +1,24 @@
+.select__sort {
+    padding: 8px 10px;
+    width: 200px;
+    border-radius: 13px;
+    border: 1px solid #C4C4C4;
+    outline: none;
+    margin-bottom: 30px;
+}
+
+.option__sort {
+    border-radius: 13px;
+    border: 1px solid #C4C4C4;
+    padding: 8px 10px;
+    outline: none
+}
+
+.select {
+    padding: 8px 10px;
+    width: 100%;
+    border-radius: 13px;
+    border: 1px solid #C4C4C4;
+    margin-bottom: 30px;
+    outline: none;
+}

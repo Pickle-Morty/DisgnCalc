@@ -1,0 +1,8 @@
+.textarea {
+    resize: none;
+    border-radius: 10px;
+    border: 1px solid #C4C4C4;
+    margin-bottom: 30px;
+    width: 100%;
+    box-sizing: border-box;
+}

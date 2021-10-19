@@ -11,3 +11,50 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+    max-width: 1320px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+/* text */
+
+.text-center {
+  text-align: center;
+}
+
+.color-blue {
+  color: rgba(0, 80, 178, 1);
+}
+
+/* margin padding */
+
+.m-auto {
+  margin: 0 auto;
+  display: block;
+}
+
+/* grid  */
+
+.col {
+  padding: 0 10px;
+}
+
+.row {
+  display: flex;
+}
+
+/* display */
+
+.d-flex {
+  display: flex;
+}
